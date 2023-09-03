@@ -1,5 +1,5 @@
 {
-  "name": "ai-jsx-hello-world",
+  "name": "conlang-ai",
   "version": "0.0.0",
   "type": "module",
   "license": "MIT",
@@ -8,11 +8,13 @@
     "start": "npm run typecheck && tsx index.tsx"
   },
   "dependencies": {
-    "ai-jsx": "^0.5.15"
+    "ai-jsx": "^0.12.0",
+    "terminal-kit": "^3.0.0"
   },
   "devDependencies": {
     "@tsconfig/node18": "^2.0.1",
     "@types/node": "^20.3.1",
+    "@types/terminal-kit": "^2.5.1",
     "tsx": "^3.12.7",
     "typescript": "^5.1.3"
   }
