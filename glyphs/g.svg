@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 81 117" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g transform="matrix(1,0,0,1,-1818,-272)">
-        <g transform="matrix(1,0,0,1,-1.13687e-12,6.75734)">
-            <g id="g">
-                <path d="M1856.23,276.386L1822.75,276.386L1826.38,283.535L1824.23,284.592L1818.9,274.087L1893.24,274.087L1894.43,271.724L1898.03,272.781L1892.04,284.592L1888.44,283.535L1892.07,276.386L1860.14,276.386C1860.17,287.396 1870.04,320.488 1838.68,320.491C1825.19,320.493 1822.92,333.546 1822.92,343.636C1822.92,363.074 1830.17,373.245 1839.72,373.245C1849.27,373.245 1855.46,362.312 1856.39,353.345C1857.81,339.694 1865.71,330.599 1877.21,330.512C1897.71,330.356 1902.41,354.916 1893.85,365.986L1891.52,365.948C1900.12,353.351 1895.96,332.99 1876.21,333.035C1866.66,333.057 1860.64,344.362 1860.48,353.536C1860.28,364.267 1851.22,376.178 1839.72,376.178C1828.23,376.178 1818.64,365.79 1818.9,343.345C1819.04,330.735 1823.92,316.956 1839.72,317.171C1866.05,317.529 1856.26,285.22 1856.23,276.386Z"/>
+<svg width="100%" height="100%" viewBox="0 0 237 355" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-261,-2)">
+        <g transform="matrix(9.84616,0,0,9.88392,-44464,-48934.8)">
+            <rect id="g" x="4542.43" y="4951.22" width="23.958" height="35.81" style="fill:none;"/>
+            <g id="g1" serif:id="g">
+                <g transform="matrix(0.0999753,0,0,-0.0453448,4519.02,4952.76)">
+                    <path d="M244.242,8.259C243.733,8.759 414.36,9.515 465.272,9.515" style="fill:none;stroke:black;stroke-width:8.17px;"/>
+                </g>
+                <g transform="matrix(0.101562,0,0,0.101174,4518.47,4951.22)">
+                    <path d="M281.171,12.46C281.171,15.508 262.57,59.529 254.318,122.732C245.548,189.907 241.658,235.012 255.964,297.058C260.082,314.919 272.975,341.636 303.56,340.332C334.033,339.033 353.733,324.113 366.437,289.423C376.844,261.007 402.591,242.586 424.529,241.034C462.235,238.365 465.199,262.219 463.46,285.323C459.874,332.987 419.002,342.144 419.402,342.144" style="fill:none;stroke:black;stroke-width:6.25px;"/>
+                </g>
             </g>
-        </g>
-        <g id="PHONETICS">
         </g>
     </g>
 </svg>

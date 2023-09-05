@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 81 119" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g transform="matrix(1,0,0,1,-1818,-141)">
-        <g id="PHONETICS">
-            <g id="r">
-                <path d="M1874.63,202.869L1872.17,202.357L1851.07,202.357L1848.41,203.002L1848.41,230.244L1844.12,230.315L1845.29,225.381L1845.34,173.607L1842.9,173.605L1842.9,171.26L1850.23,171.26L1849.8,173.632L1848.41,173.673L1848.41,198.598L1851.04,199.391L1872.08,199.391L1874.63,198.627L1874.63,152.71C1874.63,149.799 1875.79,147.006 1877.85,144.948C1879.91,142.889 1882.7,141.733 1885.61,141.733L1885.63,141.733C1891.7,141.733 1896.61,146.647 1896.61,152.71L1896.61,254.736L1898.03,259.843L1894.32,259.842L1894.32,154.286C1894.32,149.49 1890.43,145.602 1885.63,145.602L1885.61,145.602C1880.81,145.602 1876.93,149.49 1876.93,154.286L1876.92,221.808C1876.92,238.54 1871.22,259.842 1848.52,259.842C1825.81,259.842 1818.9,238.408 1818.9,221.81C1818.9,141.732 1818.9,141.732 1818.9,141.732L1821.19,141.732C1821.19,141.732 1821.19,141.732 1821.19,220.472C1821.19,238.074 1827.48,257.226 1848.41,257.226C1869.34,257.226 1874.63,238.225 1874.63,220.472L1874.63,202.869Z"/>
+<svg width="100%" height="100%" viewBox="0 0 237 354" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-1284,0)">
+        <g transform="matrix(9.84616,0,0,9.88392,-43441,-48937.5)">
+            <rect id="r" x="4542.43" y="4951.22" width="23.958" height="35.81" style="fill:none;"/>
+            <g id="r1" serif:id="r">
+                <g transform="matrix(0.107909,0,0,0.117176,4402.19,4949.11)">
+                    <path d="M1319.48,32.406C1319.48,60.713 1282.51,297.427 1371.94,306.96C1525.37,323.316 1448.62,30.334 1479.63,34.508C1522.89,40.329 1506.64,293.226 1504.61,307.787" style="fill:none;stroke:black;stroke-width:5.62px;"/>
+                </g>
             </g>
         </g>
     </g>

@@ -4,6 +4,7 @@ import {
   SystemMessage,
   UserMessage,
 } from "ai-jsx/core/completion";
+import { OpenAI } from "ai-jsx/lib/openai";
 import path from "path";
 import fs from "fs";
 import terminal from "terminal-kit";
@@ -23,6 +24,7 @@ function App() {
   );
 
   return (
+   <OpenAI chatModel="gpt-4-32k">
     <ChatCompletion>
       <SystemMessage>
         You are an AI assistant that generates glyphs for a constructed
@@ -30,17 +32,18 @@ function App() {
         writing system of this language is an abugida, where each glyph
         represents a consonant with an optional vowel. The vowel can be
         represented by a diacritic, or by a separate glyph.{"\n"}
-        You will be given examples of phonemes in the langugae, along with
+        You will be given examples of phonemes in the languge, along with
         glyphs in SVG format. Your job is to generate new glyphs for new
-        phonemese.{"\n"}
+        phonemes.{"\n"}
       </SystemMessage>
       <UserMessage>
         You are generating glyphs for a constructed language called Derpytext.
         The glyphs are represented in SVG format.{"\n"}
         {glyphPrompt.join("\n")}
-        {"\n"}Please generate a glyph for the phoneme "gw".{"\n"}
+        {"\n"}Please generate a glyph for the phoneme "ng".{"\n"}
       </UserMessage>
     </ChatCompletion>
+    </OpenAI>
   );
 }
 
